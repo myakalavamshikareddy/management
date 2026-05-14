@@ -25,7 +25,6 @@ npm run dev
 The backend runs on `http://localhost:5000`.
 The React app runs on `http://localhost:3000`.
 
-## Environment
 
 Create or update `.env`:
 
