@@ -16,7 +16,6 @@ A starter full-stack manager app using Node.js, Express, MongoDB, JWT authentica
 - `src/api.js` - Axios API calls
 
 ## Setup
-
 ```bash
 npm install
 npm run dev
