@@ -48,4 +48,3 @@ git push -u origin main
 ```
 update ramyaveeramreddy2006-cloud ·
 
-update 2nd account gellapranay
