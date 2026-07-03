@@ -1,4 +1,4 @@
-# Manager App
+ # Manager App
 
 A starter full-stack manager app using Node.js, Express, MongoDB, JWT authentication, and React.
 
